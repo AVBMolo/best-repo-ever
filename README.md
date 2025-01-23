@@ -2,5 +2,5 @@
 Learning Github practice rep
 I have managed to open the rep locally
 Now I should be on a different branch
-Changes made to a different branch
-this is branch2
+I will create a conflict of commits
+here also
